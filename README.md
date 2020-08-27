@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 Language: Javascript </br>
 Technical Skills: ReactJs + Redux, Firebase, CSS(Grid + Flexbox + SASS)
 
+Currently Learning & Working On: NodeJs, Express, MondgoDB, Mongoose
+
 #### PROJECTS: Please see the pinned repositories. 
 
 ---
@@ -28,4 +30,5 @@ Telegram: @GobindJha
 
 
 ##### 💬 Message for Other Developers:
-I am looking for like minded people to collaborate on projects, building new tech related solutions & contract work opportunities. Feel free to message me!
+I am looking for like minded people to collaborate on projects, building new tech related solutions <br>
+& contract work opportunities. Feel free to message me!
