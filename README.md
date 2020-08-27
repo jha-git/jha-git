@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I am a Web Developer 
+Language: Javascript </br>
+Technical Skills: ReactJs + Redux, Firebase, CSS(Grid + Flexbox + SASS)
+
+### 📫 How to reach me:
+
+Telegram: @GobindJha
