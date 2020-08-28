@@ -25,7 +25,7 @@ Currently Learning & Working On: NodeJs, Express, MondgoDB, Mongoose
 ---
 
 ### 📫 How to reach me:
-
+Email: official.gobind@yahoo.com
 Telegram: @GobindJha
 
 
