@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## I am a Web Developer 
 Language: Javascript </br>
-Technical Skills: ReactJs + Redux, Firebase, CSS(Grid + Flexbox + SASS)
+Technical Skills: ReactJs + Redux, Firebase, CSS(Grid + Flexbox + Sass)
 
 Currently Learning & Working On: NodeJs, Express, MondgoDB, Mongoose
 
