@@ -20,7 +20,7 @@ Technical Skills: ReactJs + Redux, Firebase, CSS(Grid + Flexbox + Sass)
 
 Currently Learning & Working On: NodeJs, Express, MondgoDB, Mongoose
 
-#### PROJECTS: Please see the pinned repositories. 
+#### PROJECTS: https://jha-git.github.io/Portfolio/
 
 ---
 
