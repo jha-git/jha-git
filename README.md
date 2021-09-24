@@ -20,13 +20,12 @@ Technical Skills: ReactJs + Redux, Firebase, CSS(Grid + Flexbox + Sass)
 
 Currently Learning & Working On: NodeJs, Express, MondgoDB, Mongoose
 
-#### PROJECTS: https://jha-git.github.io/Portfolio/
+#### PROJECTS:
 
 ---
 
 ### 📫 How to reach me:
-Email: official.gobind@yahoo.com </br>
-Telegram: @GobindJha
+
 
 
 ##### 💬 Message for Other Developers:
